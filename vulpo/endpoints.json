@@ -1,0 +1,69 @@
+{
+    "autoscaling": {
+    },
+    "cloudformation": {
+    },
+    "cloudfront": {
+    },
+    "cloudsearch": {
+    },
+    "cloudtrail": {
+    },
+    "cloudwatch": {
+    },
+    "datapipeline": {
+    },
+    "directconnect": {
+    },
+    "dynamodb": {
+    },
+    "ec2": {
+    },
+    "elasticache": {
+    },
+    "elasticbeanstalk": {
+    },
+    "elasticloadbalancing": {
+    },
+    "elasticmapreduce": {
+    },
+    "elastictranscoder": {
+    },
+    "glacier": {
+    },
+    "iam": {
+    },
+    "importexport": {
+    },
+    "kinesis": {
+    },
+    "opsworks": {
+    },
+    "rds": {
+    },
+    "redshift": {
+    },
+    "route53": {
+    },
+    "scs": {
+        "bjcnc": "bjcnc.scs.sohucs.com",
+        "bjctc": "bjctc.scs.sohucs.com",
+        "shctc": "shctc.scs.sohucs.com"
+    },
+    "sdb": {
+    },
+    "ses": {
+    },
+    "sns": {
+    },
+    "sqs": {
+    },
+    "storagegateway": {
+    },
+    "sts": {
+    },
+    "support": {
+    },
+    "swf": {
+    }
+}
