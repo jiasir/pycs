@@ -38,4 +38,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    if len(sys.argv) is 3:
+        main()
