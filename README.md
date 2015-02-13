@@ -3,7 +3,7 @@ SOHU CDN Utils
 
 ### Get started
 
-* Defin your environment with `CS_ACCESS_KEY` and `CS_SECURITY_KEY`
+* Define your environment with `CS_ACCESS_KEY` and `CS_SECURITY_KEY`
 ```
 export CS_ACCESS_KEY='put your sohu cloud storage access key here'
 export CS_SECURITY_KEY='put your sohu cloud storage security key here'
