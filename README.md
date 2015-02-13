@@ -3,9 +3,10 @@ SOHU CDN Utils
 
 ### Get started
 
-* Edit keys in `keys.py`
+* Defin your environment with `CS_ACCESS_KEY` and `CS_SECURITY_KEY`
 ```
-vi keys/keys.py
+export CS_ACCESS_KEY='put your sohu cloud storage access key here'
+export CS_SECURITY_KEY='put your sohu cloud storage security key here'
 ```
 * Usage
 ```

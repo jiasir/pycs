@@ -4,6 +4,7 @@ from vulpo.scs.connection import SCSConnection
 import sys
 from keys import keys
 
+
 k = keys.Keys()
 access_key = k.get_access_key()
 security_key = k.get_security_key()
